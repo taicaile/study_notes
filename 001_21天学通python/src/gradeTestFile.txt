@@ -1,0 +1,9 @@
+from test import grade
+>>> grade(100)
+'优秀'
+>>> grade(80)
+'良'
+>>> grade(65)
+'合格'
+>>> grade(10)
+'不合格'
