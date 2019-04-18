@@ -1,4 +1,4 @@
-# [Machine Learning in Action](./books/Machine+Learning+in+Action.pdf) reading nodes
+# Machine Learning in Action reading nodes
 
 | index | established time | content                                                   | process | update data |
 | ----- | ---------------- | --------------------------------------------------------- | ------- | ----------- |
@@ -6,7 +6,7 @@
 | 2     | 2018-12-19       | Classifying with k-Nearest Neighbors                      | 100%    | 2018-12-19  |
 | 3     | 2018-12-21       | Splitting datasets one feature at a time: decision trees  | 100%    | 2018-12-23  |
 | 4     | 2018-12-23       | Classifying with probability theory: naïve Bayes          | 100%    | 2018-12-24  |
-| 5     | 2018-12-25       | Logistic regression                                       | 60%     | 2018-12-29  |
+| 5     | 2018-12-25       | Logistic regression                                       | 80%     | 2019-04-18  |
 | 6     | 2018-12-27       | Support vector machines                                   | 10%     | 2018-12-30  |
 | 7     | 2018-12-29       | Improving classification with the AdaBoost meta-algorithm | 50%     | 2019-01-05  |
 | 8     | 2018-12-31       | Predicting numeric values: regression                     | 0%      | TBD         |
